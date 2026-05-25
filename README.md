@@ -320,13 +320,3 @@ Potential future extensions include:
 4. Kirillov et al. — Segment Anything
 
 5. Bell et al. — Intrinsic Images in the Wild
-
----
-
-# Author
-
-**Ayush Tiwari**
-
-Computer Vision • Image Editing • Generative AI
-
-Shiv Nadar University
